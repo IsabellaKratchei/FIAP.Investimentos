@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIAP.Investimentos", "FIAP.Investimentos.csproj", "{189E3BBC-DE32-4DCC-82FC-655C73D470F9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED7A2290-BD8C-427F-856B-57954582F2F0} = {ED7A2290-BD8C-427F-856B-57954582F2F0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIAP.Domain", "..\FIAP.Domain\FIAP.Domain.csproj", "{A63EFBE5-7FA1-4A7F-AA30-13FA26226522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIAP.Infraestructure", "..\FIAP.Infraestructure\FIAP.Infraestructure.csproj", "{D1E9E3AB-0C99-47C3-9F30-B13D17867C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIAP.Application", "..\FIAP.Application\FIAP.Application.csproj", "{ED7A2290-BD8C-427F-856B-57954582F2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIAP.Investimentos.Tests", "..\FIAP.Investimentos.Tests\FIAP.Investimentos.Tests.csproj", "{5F383C80-E5EE-45DF-A1EC-399974C97168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189E3BBC-DE32-4DCC-82FC-655C73D470F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189E3BBC-DE32-4DCC-82FC-655C73D470F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189E3BBC-DE32-4DCC-82FC-655C73D470F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189E3BBC-DE32-4DCC-82FC-655C73D470F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63EFBE5-7FA1-4A7F-AA30-13FA26226522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63EFBE5-7FA1-4A7F-AA30-13FA26226522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63EFBE5-7FA1-4A7F-AA30-13FA26226522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63EFBE5-7FA1-4A7F-AA30-13FA26226522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E9E3AB-0C99-47C3-9F30-B13D17867C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E9E3AB-0C99-47C3-9F30-B13D17867C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E9E3AB-0C99-47C3-9F30-B13D17867C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E9E3AB-0C99-47C3-9F30-B13D17867C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7A2290-BD8C-427F-856B-57954582F2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7A2290-BD8C-427F-856B-57954582F2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7A2290-BD8C-427F-856B-57954582F2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7A2290-BD8C-427F-856B-57954582F2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F383C80-E5EE-45DF-A1EC-399974C97168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F383C80-E5EE-45DF-A1EC-399974C97168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F383C80-E5EE-45DF-A1EC-399974C97168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F383C80-E5EE-45DF-A1EC-399974C97168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F33271D-048B-4733-B215-3E5B45C51CEE}
+	EndGlobalSection
+EndGlobal

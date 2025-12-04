@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\Investimentos\\FIAP.Investimentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189E3BBC-DE32-4DCC-82FC-655C73D470F9}|FIAP.Investimentos.csproj|d:\\projetos\\investimentos\\fiap.investimentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189E3BBC-DE32-4DCC-82FC-655C73D470F9}|FIAP.Investimentos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F383C80-E5EE-45DF-A1EC-399974C97168}|..\\FIAP.Investimentos.Tests\\FIAP.Investimentos.Tests.csproj|d:\\projetos\\investimentos\\fiap.investimentos.tests\\integration\\investmentsintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189E3BBC-DE32-4DCC-82FC-655C73D470F9}|FIAP.Investimentos.csproj|d:\\projetos\\investimentos\\fiap.investimentos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189E3BBC-DE32-4DCC-82FC-655C73D470F9}|FIAP.Investimentos.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9E3AB-0C99-47C3-9F30-B13D17867C2D}|..\\FIAP.Infraestructure\\FIAP.Infraestructure.csproj|d:\\projetos\\investimentos\\fiap.infraestructure\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A2290-BD8C-427F-856B-57954582F2F0}|..\\FIAP.Application\\FIAP.Application.csproj|d:\\projetos\\investimentos\\fiap.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189E3BBC-DE32-4DCC-82FC-655C73D470F9}|FIAP.Investimentos.csproj|d:\\projetos\\investimentos\\fiap.investimentos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{189E3BBC-DE32-4DCC-82FC-655C73D470F9}|FIAP.Investimentos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F383C80-E5EE-45DF-A1EC-399974C97168}|..\\FIAP.Investimentos.Tests\\FIAP.Investimentos.Tests.csproj|d:\\projetos\\investimentos\\fiap.investimentos.tests\\controllers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189E3BBC-DE32-4DCC-82FC-655C73D470F9}|FIAP.Investimentos.csproj|d:\\projetos\\investimentos\\fiap.investimentos\\controllers\\investmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189E3BBC-DE32-4DCC-82FC-655C73D470F9}|FIAP.Investimentos.csproj|solutionrelative:controllers\\investmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F383C80-E5EE-45DF-A1EC-399974C97168}|..\\FIAP.Investimentos.Tests\\FIAP.Investimentos.Tests.csproj|d:\\projetos\\investimentos\\fiap.investimentos.tests\\services\\jwttokenservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F383C80-E5EE-45DF-A1EC-399974C97168}|..\\FIAP.Investimentos.Tests\\FIAP.Investimentos.Tests.csproj|d:\\projetos\\investimentos\\fiap.investimentos.tests\\integration\\authcontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F383C80-E5EE-45DF-A1EC-399974C97168}|..\\FIAP.Investimentos.Tests\\FIAP.Investimentos.Tests.csproj|d:\\projetos\\investimentos\\fiap.investimentos.tests\\context\\usuarioinvestmentrelationshiptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F383C80-E5EE-45DF-A1EC-399974C97168}|..\\FIAP.Investimentos.Tests\\FIAP.Investimentos.Tests.csproj|d:\\projetos\\investimentos\\fiap.investimentos.tests\\infraestructure\\investmentrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F383C80-E5EE-45DF-A1EC-399974C97168}|..\\FIAP.Investimentos.Tests\\FIAP.Investimentos.Tests.csproj|d:\\projetos\\investimentos\\fiap.investimentos.tests\\infraestructure\\usuariorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F383C80-E5EE-45DF-A1EC-399974C97168}|..\\FIAP.Investimentos.Tests\\FIAP.Investimentos.Tests.csproj|d:\\projetos\\investimentos\\fiap.investimentos.tests\\controllers\\investmentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A2290-BD8C-427F-856B-57954582F2F0}|..\\FIAP.Application\\FIAP.Application.csproj|d:\\projetos\\investimentos\\fiap.application\\services\\investmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvestmentsIntegrationTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Integration\\InvestmentsIntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Investimentos.Tests\\Integration\\InvestmentsIntegrationTests.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Integration\\InvestmentsIntegrationTests.cs",
+              "RelativeToolTip": "..\\FIAP.Investimentos.Tests\\Integration\\InvestmentsIntegrationTests.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAqwGkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:55:28.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Investimentos.Tests\\Controllers\\AuthControllerTests.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeToolTip": "..\\FIAP.Investimentos.Tests\\Controllers\\AuthControllerTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:10:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:29:03.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:03:38.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Infraestructure\\Auth\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Infraestructure\\Auth\\JwtTokenService.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Infraestructure\\Auth\\JwtTokenService.cs",
+              "RelativeToolTip": "..\\FIAP.Infraestructure\\Auth\\JwtTokenService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:27:18.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvestmentsController.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos\\Controllers\\InvestmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvestmentsController.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos\\Controllers\\InvestmentsController.cs",
+              "RelativeToolTip": "Controllers\\InvestmentsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:59:17.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T00:01:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Application\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Application\\Services\\AuthenticationService.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Application\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "..\\FIAP.Application\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:30:23.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthControllerIntegrationTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Integration\\AuthControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Investimentos.Tests\\Integration\\AuthControllerIntegrationTests.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Integration\\AuthControllerIntegrationTests.cs",
+              "RelativeToolTip": "..\\FIAP.Investimentos.Tests\\Integration\\AuthControllerIntegrationTests.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwIIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:11:56.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvestmentRepositoryTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Infraestructure\\InvestmentRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Investimentos.Tests\\Infraestructure\\InvestmentRepositoryTests.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Infraestructure\\InvestmentRepositoryTests.cs",
+              "RelativeToolTip": "..\\FIAP.Investimentos.Tests\\Infraestructure\\InvestmentRepositoryTests.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAH4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:20:19.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioInvestmentRelationshipTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Context\\UsuarioInvestmentRelationshipTests.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Investimentos.Tests\\Context\\UsuarioInvestmentRelationshipTests.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Context\\UsuarioInvestmentRelationshipTests.cs",
+              "RelativeToolTip": "..\\FIAP.Investimentos.Tests\\Context\\UsuarioInvestmentRelationshipTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:22:05.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtTokenServiceTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Services\\JwtTokenServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Investimentos.Tests\\Services\\JwtTokenServiceTests.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Services\\JwtTokenServiceTests.cs",
+              "RelativeToolTip": "..\\FIAP.Investimentos.Tests\\Services\\JwtTokenServiceTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:25:04.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioRepositoryTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Infraestructure\\UsuarioRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Investimentos.Tests\\Infraestructure\\UsuarioRepositoryTests.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Infraestructure\\UsuarioRepositoryTests.cs",
+              "RelativeToolTip": "..\\FIAP.Investimentos.Tests\\Infraestructure\\UsuarioRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:15:55.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvestmentsControllerTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Controllers\\InvestmentsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Investimentos.Tests\\Controllers\\InvestmentsControllerTests.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Investimentos.Tests\\Controllers\\InvestmentsControllerTests.cs",
+              "RelativeToolTip": "..\\FIAP.Investimentos.Tests\\Controllers\\InvestmentsControllerTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:12:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvestmentService.cs",
+              "DocumentMoniker": "D:\\Projetos\\Investimentos\\FIAP.Application\\Services\\InvestmentService.cs",
+              "RelativeDocumentMoniker": "..\\FIAP.Application\\Services\\InvestmentService.cs",
+              "ToolTip": "D:\\Projetos\\Investimentos\\FIAP.Application\\Services\\InvestmentService.cs",
+              "RelativeToolTip": "..\\FIAP.Application\\Services\\InvestmentService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:54:51.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
