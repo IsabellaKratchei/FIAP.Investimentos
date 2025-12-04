@@ -1,0 +1,1 @@
+Projeto dedicado a desenvolver e praticar Autenticação/Autorização - Clean Architecture - boas práticas de código - Testes (Unitário, Integração, E2E) - Migration e demais práticas envolvidas na Pós Tech - Arquitetura com .NET e Azure
